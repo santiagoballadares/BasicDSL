@@ -1,7 +1,7 @@
-# DSL_HelloWorld
-Eclipse project for a DSL program
+# SDL_HelloWorld
+Eclipse project for a SDL program
 
-DSL Setup with MinGW32:
+SDL Setup with MinGW32:
 
 1) First, download SDL headers and binaries from the SDL website (https://www.libsdl.org/download-2.0.php). 
    Scroll Down to the Development Libraries section and download the MinGW32 development library.
@@ -44,7 +44,7 @@ DSL Setup with MinGW32:
 9) Finally, include the SDL library as: #include "SDL/SDL.h"
 
 
-Note: Alternatively, if the SDL library cannot be found, keep all DSL files in a separate folder and add 
+Note: Alternatively, if the SDL library cannot be found, keep all SDL files in a separate folder and add 
 references to the relevant files (inlcudes and libraries) in the Project Properties -> C/C++ Build -> Settings. 
 And include the SDL library as: #include <SDL/SDL.h>.
    
