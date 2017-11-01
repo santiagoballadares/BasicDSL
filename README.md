@@ -1,5 +1,5 @@
-# BasicDSL
-Basic DSL program
+# DSL_HelloWorld
+Eclipse project for a DSL program
 
 DSL Setup with MinGW32:
 
