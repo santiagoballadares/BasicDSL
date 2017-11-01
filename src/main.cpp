@@ -11,7 +11,7 @@ int main(int argc, char* args[]) {
 	}
 
 	//Create a window
-	SDL_Window *window = SDL_CreateWindow("Basic SDL program",
+	SDL_Window *window = SDL_CreateWindow("SDL Hello World",
 			SDL_WINDOWPOS_UNDEFINED,
 			SDL_WINDOWPOS_UNDEFINED, 800, 600, SDL_WINDOW_SHOWN);
 
